@@ -78,3 +78,34 @@ def clear_screen():
         os.system('clear')
     elif (platform == "win32"):
         os.system('cls')
+
+
+
+def user_account(name):
+    clear_screen()
+    header_screen()
+    _global_username = name
+    # _global_preference = preference
+
+    print("\n\t\tWelcome ", _global_username)
+
+    print("\n\t\tRecomendaciones\n\n\n\n")
+
+
+
+
+def loading_screen():
+
+    toolbar_width = 40
+    # setup toolbar
+    sys.stdout.write("\t[%s]" % (" " * toolbar_width))
+    sys.stdout.flush()
+    sys.stdout.write("\b" * (toolbar_width + 1))  # return to start of line, after '['
+
+    for i in range(toolbar_width):
+        time.sleep(0.1)  # do real work here
+        # update the bar
+        sys.stdout.write("-")
+        sys.stdout.flush()
+
+    sys.stdout.write("]\n")  # this ends the progress bar
