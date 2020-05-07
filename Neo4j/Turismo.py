@@ -109,3 +109,44 @@ def loading_screen():
         sys.stdout.flush()
 
     sys.stdout.write("]\n")  # this ends the progress bar
+
+
+def header_screen():
+    print("\n\n******************************************************************")
+
+
+if __name__ == "__main__":
+    # Connect to Server
+    greeter = Turismo("bolt://localhost:7687", "neo4j", "Buxup2020")
+    header_screen()
+    print("\n\t\t\t Turismo")
+
+    print("\n\n\t1. Crear usuario")
+    print("\t2. Crear un lugar turistico")
+    print("\t3. Ingresar a mi cuenta")
+    opcion =int((input("\n\tQue desea hacer?: ")))
+
+
+    if (opcion == 1):
+        name = input("\n\tIngrese nombre: ")
+        age = int(input("\tIngrese edad: "))
+        greeter.save_name(name, age) # LLama las funciones para crear  un usuario en la base de datos
+        print("\n\tUsuario" ,name , "creado exitosamente\n")
+        time.sleep(1)
+        print("\n\tCargando recomendaciones....\n")
+        loading_screen()
+        user_account(name)
+
+    if(opcion == 2):
+        place_name = input("\n\tIngrese nombre: ")
+        location = input("\tUbicacion: ")
+        greeter.save_place(place_name, location)
+        print("\n\tCreando destino:", place_name, "...\n")
+        loading_screen()
+        clear_screen()
+
+    if(opcion == 3) :
+        username = input("\n\tIngrese usuario: ")
+        greeter.find_user(username)
+
+    greeter.close()
