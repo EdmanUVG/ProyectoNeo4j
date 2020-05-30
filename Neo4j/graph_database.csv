@@ -1,0 +1,103 @@
+﻿n
+"{name:David Beckham,age:35,home:Retalhuleu}"
+"{classification:Playas,placeName:Playas de Tilapa,location:San Marcos}"
+"{name:Elsa Pataky,age:30,home:Huehuetenango}"
+"{name:Nayerly Doniz,age:17,home:Santa Rosa}"
+"{name:Katy Alvarez,age:20,home:Totonicapán}"
+"{name:Sucely Jaime,age:20,home:Sololá}"
+"{name:Josseline Aguilar,age:21,home:San Marcos}"
+"{name:Fernanda Marinez,age:12,preference:Lagos,home:Zacapa}"
+"{name:Paholina Ramos,age:18,home:Petén}"
+"{name:Karla Sican,age:25,preference:Volcanes,home:Santa Rosa}"
+{name:Karla Sican}
+"{classification:Lagos,placeName:Lago de Amatitlan,location:Guatemala}"
+"{classification:Lugares Arqueológicos,placeName:Parque nacional Tikal,location:Petén}"
+"{classification:Lagos,placeName:Lago de Atitlán,location:Sololá}"
+"{classification:Ríos,placeName:Semuc Champey,location:Alta Verapaz}"
+"{classification:Volcanes,placeName:Volcán Pacaya,location:Escuintla}"
+"{classification:Ríos,placeName:Río Dulce,location:Izabal}"
+"{classification:Volcanes,placeName:Volcán de Acatenango,location:Chimaltenango}"
+{}
+"{classification:Volcanes,placeName:Volcán San Pedro,location:Sololá}"
+"{classification:Lagos,placeName:Lago Petén Itzá,location:Petén}"
+"{classification:Monumentos,placeName:El Arco de Santa Catalina,location:Sacatepéquez}"
+"{classification:Volcanes,placeName:Volcán de Agua,location:Sacatepéquez}"
+"{classification:Lugares Arqueológicos,placeName:Sitio Arqueológico Iximche,location:Chimaltenango}"
+"{classification:Volcanes,placeName:Volcán de Fuego,location:Sacatepéquez}"
+"{classification:Volcanes,placeName:Volcán Tajumulco,location:San Marcos}"
+"{classification:Arquitecturas,placeName:Palacio Nacional de la Cultura,location:Guatemala}"
+"{classification:Iglesias,placeName:Iglesia de La Merced,location:Guatemala}"
+"{classification:Castillos,placeName:Castillo de San Felipe de Lara,location:Izabal}"
+"{classification:Islas,placeName:Isla de Flores,location:Petén}"
+"{classification:Conventos,placeName:Convento de Santo Domingo,location:Sacatepéquez}"
+"{classification:Volcanes,placeName:Volcán de Atitlán,location:Sololá}"
+"{classification:Zoológicos,placeName:Zoológico La Aurora,location:Guatemala}"
+"{classification:Lugares Arqueológicos,placeName:Templo de la Serpiente Bicéfala,location:Petén}"
+"{classification:Monumentos,placeName:Cerro de La Cruz,location:Sacatepéquez}"
+"{classification:Museos,placeName:Museo Popol Vuh,location:Guatemala}"
+"{classification:Volcanes,placeName:Volcán Santa María,location:Quetzaltenango}"
+"{classification:Catedrales,placeName:Catedral de San José,location:Sacatepéquez}"
+"{classification:Lagos,placeName:Laguna de Chicabal,location:Quetzaltenango}"
+"{classification:Parques de diversión,placeName:Xetulul,location:Retalhuleu}"
+"{classification:Catedrales,placeName:Catedral Metropolitana del Apóstol Santiago de Guatemala,location:Guatemala}"
+"{classification:Volcanes,placeName:Volcán Tolimán,location:Sololá}"
+"{classification:Monumento Natural,placeName:Biotopo del Quetzal,location:Baja Verapaz}"
+"{classification:Iglesias,placeName:Iglesia y convento de las Capuchinas,location:Sacatepéquez}"
+"{classification:Lagunas,placeName:Laguna de Lachuá,location:Alta Verapaz}"
+"{classification:Yacimiento arqueológico,placeName:Topoxté,location:El Petén, Guatemala}"
+"{classification:Yacimiento arqueológico,placeName:Takalik Abaj,location:Guatemala}"
+"{classification:Parques de diversión,placeName:IRTRA Mundo petapa,location:Guatemala}"
+"{classification:Lugares Arqueológicos,placeName:Reserva de la biosfera maya,location:Petén}"
+"{classification:Parques de diversión,placeName:Parque Central (Plaza Mayor),location:Guatemala}"
+"{classification:Parques de diversión,placeName:Xocomil,location:Retalhuleu}"
+"{classification:Lugares Arqueológicos,placeName:Templo de las Máscaras,location:Petén}"
+"{classification:Áreas de recreación,placeName:Auto Safari Chapín,location:Escuintla}"
+"{classification:Lugares Arqueológicos,placeName:Zaculeu,location:Huehuetenango}"
+"{classification:Volcanes,placeName:Volcán Santiaguito,location:Quetzaltenango}"
+"{classification:Conventos,placeName:Convento Santa Clara,location:Sacatepéquez}"
+"{classification:Lagunas,placeName:La Laguna Brava,location:Huehuetenango}"
+"{classification:Lagunas,placeName:Laguna Yaxha,location:Petén}"
+"{classification:Monumentos,placeName:Torre del Reformador,location:Guatemala}"
+"{classification:Monumentos,placeName:Mapa en Relieve,location:Guatemala}"
+"{classification:Playas,placeName:Playa Dorada,location:Izabal}"
+"{classification:Parques ecológico,placeName:Orquigonia,location:Alta Verapaz}"
+{locationName:Chimaltenango}
+"{name:Angela Xiloj,age:20,preference:Volcanes,home:El Progreso}"
+"{name:Gabriela Diaz,age:20,preference:Volcanes,home:Chimaltenango}"
+"{name:Laura Xc,age:29,preference:Monumentos,home:Baja Verapaz}"
+"{name:Fatima Gomez,age:30,preference:Lagos,home:Guatemala}"
+{locationName:Guatemala}
+{locationName:Alta Verapaz}
+{locationName:Baja Verapaz}
+{locationName:Chiquimula}
+{locationName:El Progreso}
+{locationName:Escuintla}
+{locationName:Huehuetenango}
+{locationName:Izabal}
+{locationName:Jutiapa}
+{locationName:Jalapa}
+{locationName:Petén}
+{locationName:Quetzaltenango}
+{locationName:Quiché}
+{locationName:Retalhuleu}
+{locationName:Sacatepéquez}
+{locationName:San Marcos}
+{locationName:Santa Rosa}
+{locationName:Sololá}
+{locationName:Suchitepéquez}
+{locationName:Totonicapán}
+{locationName:Zacapa}
+{}
+"{name:Cynthia Ruiz,age:30,preference:Lagos,home:Quetzaltenango}"
+"{name:Karen Lopez,age:20,preference:Castillos,home:Jalapa}"
+"{name:Dasmin Perez,age:35,preference:Iglesias,home:Escuintla}"
+"{name:Dallana Martinez,age:20,preference:Catedrales,home:Alta Verapaz}"
+"{name:Magdalena Gonzalez,age:30,preference:Rios,home:Izabal}"
+"{name:Griselda Diaz,age:20,preference:Islas,home:Quiché}"
+"{name:Abu Taher,age:30,preference:Lugares Arqueológicos,home:Chiquimula}"
+"{placeName:Mercado Central,location:Guatemala}"
+"{name:Oscar Moreno,age:24,preference:Castillos,home:Suchitepéquez}"
+"{name:Eduardo Hernandez,age:24,preference:Islas,home:El Progreso}"
+"{name:Betzabe Vazquez,age:39,preference:Rios,home:Sololá}"
+"{name:Marianeth Garcia,age:39,preference:Cenotes,home:Sololá}"
+"{name:Yuliana Garcia,age:18,preference:Parques de diversión,home:Quetzaltenango}"
